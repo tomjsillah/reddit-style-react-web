@@ -1,0 +1,42 @@
+.profile-container {
+  border-style: solid;
+  margin: 5%;
+  border-width: 2px;
+  border-radius: 25px;
+  padding: 25px;
+  background-color: white;
+}
+
+.vote {
+  display: inline-block;
+}
+
+.search {
+  border-radius: 25px;
+  width: 50%;
+  height: 25px;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.search:hover {
+  border-color: #eb7b28;
+  box-shadow: 0 0 0 0;
+}
+
+
+body{
+  background-color: #EFEFED;
+}
+
+.more {
+  border-radius: 25px;
+  width: 5%;
+  height: 25px;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
